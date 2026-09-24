@@ -6,7 +6,7 @@ This document describes the network topology used during Week 1 Security Foundat
 
 ## Topology Diagram
 
-![Network Diagram](../diagrams/network-diagram.png)
+![Network Diagram](topology.png)
 
 ## Device List
 
